@@ -1,4 +1,4 @@
-# Stand_off
+# Stand Off
 A game made by myself. Some assets are from itch.io
 
 Play here:
